@@ -1,2 +1,3 @@
 - [RUET CSE FEST 2K22 IUPC](https://github.com/Anikcb/Onsite-Contest-Practice/tree/main/RUET%20CSE%20FEST%202K22%20IUPC)
 - [BUET Inter-University Programming Contest – 2011](https://github.com/Anikcb/Onsite-Contest-Practice/tree/main/BUET%20Inter-University%20Programming%20Contest%20%E2%80%93%202011)
+- [AUST IUPC 2022](https://github.com/Anikcb/Onsite-Contest-Practice/tree/main/AUST%20IUPC%202022)
